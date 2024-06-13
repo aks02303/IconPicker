@@ -10,7 +10,7 @@ The IconPicker component is a React component that allows users to select icons 
 
 ## Demo
 
-Include a screenshot or GIF of the IconPicker component in action (optional).
+Include a screenshot or GIF of the IconPicker component in action .
 
 ## Installation
 
