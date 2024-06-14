@@ -26,7 +26,7 @@ To use the IconPicker component in your React project, follow these steps:
 2. Install the required dependencies:
 
    ```bash
-   npm install react react-dom react-feather
+   npm install react-feather
 
 3. ```bash
    npm start
